@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-This is my website and you can access clicking <a href="">here<a>.
+This is my website and you may access clicking <a href="">here<a>.
 
 Enjoy and have fun! ;)
 
